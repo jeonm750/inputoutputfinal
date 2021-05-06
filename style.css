@@ -1,0 +1,55 @@
+body {
+	margin:0;
+	padding: 0;
+	color: white;
+	background-color: black;
+	background-image: url("background.gif");
+	font-family: 'Bungee', cursive;
+
+}/*
+#canvas{
+	width: 25%;
+  	padding: 10px;
+  	border: 1px solid white;
+  	margin: 0; 
+  	background-color: gray;
+} 
+input {
+	width: 80%;
+	padding: 7px;
+	margin: 8px;
+
+}
+*/
+#next {
+	left: 90%;
+	top: 5%;
+	position: absolute;
+	font-size: 30px;
+
+}
+
+
+img {
+	display: none;
+	height: 85%;
+	background-size: cover;
+	position: absolute;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+
+
+}
+
+#birthday {
+	margin-top: 7vw;
+	margin-left: 2vw;
+	line-height: 1px;
+	margin-bottom: 0;
+}
+h1 {
+	margin-left: 20vw;
+	margin-right: auto;
+	margin-top: 10px;
+	font-size: 60px;
+}
